@@ -69,7 +69,7 @@ const CenterTitle = styled.h1`
   margin: 0 0 30px;
   padding: 0;
   font-weight: 400;
-  font-size: 32px;
+  font-size: 48px;
   color: #333;
   white-space: nowrap;
   overflow: hidden;
@@ -100,7 +100,7 @@ const MainButton = styled.div`
     color: #fff;
     text-align: center;
     display: block;
-    font-size: 32px;
+    font-size: 28px;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
     box-shadow: inset 0 1px #ffd17c, 0 2px 3px rgba(0, 0, 0, 0.2);
     border: 1px solid #e88e1d;
@@ -136,7 +136,7 @@ const HistoryItem = styled.div`
   background: linear-gradient(to bottom, #ffba30, #ff911e);
   border-radius: 20px;
   color: #fff;
-      font-size: 16px;
+      font-size: 18px;
   font-weight: 500;
 `;
 
